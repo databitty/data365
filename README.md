@@ -1,4 +1,7 @@
 # Data365
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/563d863330184dc39127aac92d671766)](https://www.codacy.com/app/hmwoliul/data365?utm_source=github.com&utm_medium=referral&utm_content=databitty/data365&utm_campaign=badger)
+
 Making the finest software for future using Database and UI design.
 
 ## About
